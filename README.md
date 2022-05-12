@@ -2,7 +2,7 @@
 
 ## Project Overview
 ### Purpose
-A Colorado Board of Elections employee requested an election audit of a recent local congressional election.  The audit tasks to complete are as follows:
+A Colorado Board of Elections employee requested an election audit of a recent local congressional election.  The audit tasks to complete are as follows, accompanied by code samples:
 1. Calculate the total number of votes cast.
 
 ![image](https://user-images.githubusercontent.com/102322707/168140848-eda5ba45-08bd-4e09-b23a-3a69d07f52f8.png)
@@ -61,9 +61,13 @@ These results have been output to a text file for quick review and summarization
 
 
 ## Summary
-I propose that the election commission use this type of script for future elections to report on county voter participation and election results.  The script can be easily modified to accomodate other types of elections if similar data is provided that can be 1.) mapped to the new CSV data file and 2.) modified with proper headers depending on the type of election (Local, County, City, State, etc.)
+I propose that the election commission use this type of script for future elections to report on county voter participation and election results.  The script can be easily modified to accomodate other types of elections (Local, County, City, State, etc.) if similar data is provided.  Two items that would need to be updated are as follows:
+
+1.) Map to a new CSV data file to update election results 
 
 ![image](https://user-images.githubusercontent.com/102322707/168139973-11caa85d-0921-4a6a-b4f7-7b5174205d3b.png)
+
+2.) Modify the code with proper headers depending on the type of election 
 
 ![image](https://user-images.githubusercontent.com/102322707/168140195-cdc4be3e-411e-4daa-a114-6544f373d704.png)
 
