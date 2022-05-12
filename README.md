@@ -2,7 +2,7 @@
 
 ## Project Overview
 ### Purpose
-A Colorado Board of Elections employee requested an election audit of a recent local congressional election.  The audit task to complete are as follows:
+A Colorado Board of Elections employee requested an election audit of a recent local congressional election.  The audit tasks to complete are as follows:
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
@@ -36,12 +36,7 @@ The analysis of the election indicates that:
     - Diane DeGette
 
 ## Summary
-I propose that the election commission use this type of script for future elections to report on county voter participation and election results.  The script can be modified 
-1.
-2.
-
-
-
+I propose that the election commission use this type of script for future elections to report on county voter participation and election results.  The script can be easily modified to accomodate other types of elections if similar data is provided that can be 1.) mapped to the new CSV data file and 2.) modified with proper headers depending on the type of election (Local, County, City, State, etc.)
 
 ## Resources
 - Data Source: election_results.csv
