@@ -15,7 +15,7 @@ A Colorado Board of Elections employee requested an election audit of a recent l
 
 ![image](https://user-images.githubusercontent.com/102322707/168142426-e0f4e565-a4a9-451e-b53c-ad6df96c5de4.png)
 
-    b.) Calculating the total percentage of votes for each candidate and county.
+     b.) Calculating the total percentage of votes for each candidate and county.
 ![image](https://user-images.githubusercontent.com/102322707/168140682-720c5c52-0fec-405f-8378-90cd8aaba84e.png)
 
 ![image](https://user-images.githubusercontent.com/102322707/168142666-fc454a20-c046-418c-9191-fcd278944825.png)
@@ -54,6 +54,9 @@ The analysis of the election indicates that:
 - The winning candidate with the largest number of votes was: 
     - Diane DeGette
 
+### Combined Results
+These results have been output to a text file for quick review and summarization:
+
 ![image](https://user-images.githubusercontent.com/102322707/168140307-48ff1714-e9b5-4ffc-87a3-4ae10cce8d77.png)
 
 
@@ -66,4 +69,4 @@ I propose that the election commission use this type of script for future electi
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.66.2
+- Software: Python 3.7 (64-bit), Visual Studio Code, 1.66.2
